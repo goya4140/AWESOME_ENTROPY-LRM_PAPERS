@@ -1,6 +1,3 @@
-# AWESOME_ENTROPY-LRM_PAPERS
-Introduction about AWESOME_ENTROPY+LRM_PAPERS
-
 # Entropy Mechanism in Large Reasoning Models: A Survey
 
 [![arXiv](https://img.shields.io/badge/arXiv-2XXX.XXXXX-b31b1b.svg)](link-to-paper)
