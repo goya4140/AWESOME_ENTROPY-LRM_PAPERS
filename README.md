@@ -8,7 +8,7 @@ Introduction about AWESOME_ENTROPY+LRM_PAPERS
 This repository contains a curated list of papers on entropy mechanisms in Large
 Reasoning Models (LRMs), covering both training and inference techniques.
 
-![Timeline](timeline.pdf)
+![Timeline](timeline.png)
 *Figure 2: Timeline of papers on entropy mechanisms in LRM within one year after the emergence of GRPO.*
 
 ## 📋 Table of Contents
