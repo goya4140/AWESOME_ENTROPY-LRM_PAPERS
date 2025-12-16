@@ -60,6 +60,7 @@ Methods that modify advantage calculations through entropy bonuses or coefficien
 | **Conditional Advantage Estimation for RL in Large Reasoning Models** | **Shanghai Jiao Tong University** | [arXiv](https://arxiv.org/pdf/2509.23962) | [GitHub](https://github.com/biuboomc/CANON) |
 | **Quantile Advantage Estimation for Entropy‑Safe Reasoning** | **University of Science and Technology of China** | [arXiv](https://arxiv.org/pdf/2509.22611) | [GitHub](https://github.com/junkangwu/QAE) |
 | **AdaThink‑Med: Medical Adaptive Thinking with Uncertainty‑Guided Length Calibration** | **Shanghai Jiao Tong University** | [arXiv](https://arxiv.org/pdf/2509.24560) | [GitHub](https://github.com/shaohao011/AdaThinkMed) |
+| **Beyond High-Entropy Exploration: Correctness-Aware Low-Entropy Segment-Based Advantage Shaping for Reasoning LLMs** | **Beijing University of Posts and Telecommunications** | [arXiv](https://arxiv.org/pdf/2512.00908) | - |
 
 ### Clip
 
@@ -79,6 +80,8 @@ Methods that adjust clipping mechanisms to control policy updates.
 | **CE‑GPPO: Controlling Entropy via Gradient‑Preserving Clipping Policy Optimization in RL** | **Kuaishou Technology** | [arXiv](https://arxiv.org/pdf/2509.20712) | – |
 | **The Entropy Mechanism of RL for Reasoning Language Models** | **Shanghai AI Laboratory** | [arXiv](https://arxiv.org/pdf/2505.22617) | [GitHub](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) |
 | **Prosperity before Collapse: How Far Can Off‑Policy RL Reach with Stale Data on LLMs?** | **Meta AI** | [arXiv](https://arxiv.org/pdf/2510.01161) | [GitHub](https://github.com/Infini-AI-Lab/M2PO) |
+| **ESPO: Entropy Importance Sampling Policy Optimization** | **Meta AI** | [arXiv](https://www.arxiv.org/pdf/2512.00499) | - |
+| **Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning** | **Kuaishou Technology** | [arXiv](https://arxiv.org/pdf/2512.05591) | - |
 
 ### KL Penalty
 
@@ -95,6 +98,7 @@ Methods that adjust KL divergence constraints to regulate exploration.
 | **APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization** | **Zhejiang University** | [arXiv](https://arxiv.org/pdf/2506.21655) | [GitHub](https://github.com/Indolent-Kawhi/View-R1) |
 | **Stabilizing Knowledge, Promoting Reasoning: Dual‑Token Constraints for RLVR** | **Kuaishou Technology** | [arXiv](https://arxiv.org/pdf/2507.15778) | [GitHub](https://github.com/wizard-III/ArcherCodeR) |
 | **RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning** | **Northwestern University** | [arXiv](https://arxiv.org/pdf/2507.14843) | [GitHub](https://github.com/mll-lab-nu/RAGEN) |
+| **Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning** | **Nanjing University** | [arXiv](https://arxiv.org/pdf/2512.04359) | - |
 
 
 ### Optimization
@@ -118,7 +122,7 @@ Methods that modify the optimization objective or re‑weight losses.
 | **SIMKO: Simple Pass@K Policy Optimization** | **Westlake University** | [arXiv](https://arxiv.org/pdf/2510.14807) | [GitHub](https://github.com/CLR-Lab/SimKO) |
 | **The Entropy Mechanism of RL for Reasoning Language Models** | **Shanghai AI Laboratory** | [arXiv](https://arxiv.org/pdf/2505.22617) | [GitHub](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) |
 | **Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective** | **Tencent** | [arXiv](https://arxiv.org/pdf/2510.10150) | [GitHub](https://github.com/zz-haooo/STEER) |
-
+| **EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control** | **Tencent** | [arXiv](https://arxiv.org/pdf/2511.15248) | [GitHub](https://github.com/yk7333/EntroPIC) |
 ---
 
 ## Inference Methods
